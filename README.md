@@ -1,4 +1,4 @@
-# Desafio-_Dio_Mysql
+# Desafio_Dio_Mysql
 Trata-se de projeto de banco de dados e pré-processamento/ transformação dos dados.
 ## Tecnologias utilizadas ##
 | Microsoft Azure | Power BI |
