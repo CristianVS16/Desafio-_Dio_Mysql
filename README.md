@@ -5,7 +5,7 @@ Trata-se de projeto de banco de dados e pré-processamento/ transformação dos 
 |-----------------|----------|
 | Criação do banco de dados Mysql | Pré-processamento dos dados/transformação |
 
-#RELATÓRIO
+## RELATÓRIO ##
 
 1- Remoção das colunas desnecessárias;
 2- alteração do tipo da coluna salário para decimal fixo;
